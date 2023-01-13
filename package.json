@@ -1,0 +1,31 @@
+{
+  "name": "hormcodes",
+  "description": "A simple personal Horm Codes business card to display in a terminal.",
+  "keywords": ["npm", "npx", "cli", "nodejs", "javascript"],
+  "author": {
+    "email": "matej.horak@horm.codes",
+    "name": "Matěj 'Horm' Horák",
+    "url": "https://horm.codes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HormCodes/npx-hormcodes"
+  },
+  "license": "MIT",
+  "version": "1.0.0",
+  "bin": {
+    "hormcodes": "./bin/index.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "scripts": {
+    "build": "node build.js",
+    "start": "node build.js && node ./bin/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "boxen": "^2.1.0",
+    "prettier": "^2.7.1"
+  }
+}
