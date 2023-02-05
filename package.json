@@ -12,7 +12,7 @@
     "url": "git+https://github.com/HormCodes/npx-hormcodes"
   },
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": {
     "hormcodes": "./bin/index.js"
   },

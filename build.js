@@ -5,7 +5,7 @@ const path = require("path");
 const handle = "HormCodes";
 
 const text = `Matěj 'Horm' Horák / @${handle}
-Backend Developer at Crystallize
+Backend Developer at Airthings
 
 https://horm.codes
 
