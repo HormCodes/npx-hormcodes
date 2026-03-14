@@ -5,11 +5,10 @@ const path = require("path");
 const handle = "HormCodes";
 
 const text = `Matěj 'Horm' Horák / @${handle}
-Backend Developer at Airthings
+Backend Developer at Jottacloud
 
 https://horm.codes
 
-twitter.com/${handle}
 github.com/${handle}
 linkedin.com/in/${handle}`;
 
